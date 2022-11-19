@@ -1,0 +1,54 @@
+*{
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 0;
+}
+body{
+    background-color: black;
+    color: white;
+}
+select{
+    margin: 20px;
+    width: 150px;
+    height: 30px;
+    font-size: 1em;
+    font-weight: 500;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+div{
+    width: 350px;
+    height: 30px;
+    color: white;
+  padding-top:6px ;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+button{
+    width: 130px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    cursor: pointer;
+
+}
+
+button:hover{
+    background-color: grey;
+}
+.remove{
+
+    border: none;
+   
+
+    
+}
+.add{
+   
+    border: 1px solid white;
+    border-radius: 5px;
+}
